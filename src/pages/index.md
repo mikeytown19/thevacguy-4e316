@@ -7,12 +7,8 @@ sections:
     image_alt: App preview
     title: The Vac Guy
     content: >-
-      We specialize in Central Vacuums in Utah, and guarantee that we have the
-      right products for you. As an authorized dealer of the best products
-      available in the current market, we install our products in both new
-      builds, and existing homes, work extensively with amazing contracters, and
-      service all different kinds of commercial businesses. We offer very
-      competitive service and support programs
+      We promise our products will work for you, and will improve your home,
+      your quality of life, and forever change your feelings about vacuuming! 
     actions:
       - label: Learn More
         url: /features
