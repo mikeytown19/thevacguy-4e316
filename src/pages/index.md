@@ -3,12 +3,12 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/TheVacGuy-Logos.1.svg
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: We Service All Brands
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      We promise our products will work for you, and will improve your home,
+      your quality of life, and forever change your feelings about vacuuming! 
     actions:
       - label: Learn More
         url: /features
