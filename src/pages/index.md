@@ -18,8 +18,12 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We specialize in Central Vacuums in Utah, and guarantee that we have the
+      right products for you. As an authorized dealer of the best products
+      available in the current market, we install our products in both new
+      builds, and existing homes, work extensively with amazing contracters, and
+      service all different kinds of commercial businesses. We offer very
+      competitive service and support programs. 
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
