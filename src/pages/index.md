@@ -7,8 +7,9 @@ sections:
     image_alt: App preview
     title: The Vac Guy
     content: >-
-      We promise our products will work for you, and will improve your home,
-      your quality of life, and forever change your feelings about vacuuming! 
+      ###### We promise our products will work for you, and will improve your
+      home, your quality of life, and forever change your feelings about
+      vacuuming! 
     actions:
       - label: Learn More
         url: /features
