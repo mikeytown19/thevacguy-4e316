@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/TheVacGuy-Logos.4.svg
+    image: images/TheVacGuy-Logos.5.svg
     image_alt: App preview
     title: The Vac Guy
     content: >-
