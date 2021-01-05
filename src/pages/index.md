@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/TheVacGuy-Logos.1.svg
     image_alt: App preview
-    title: The Vac Guy
+    title: We Service All Brands
     content: >-
       We promise our products will work for you, and will improve your home,
       your quality of life, and forever change your feelings about vacuuming! 
