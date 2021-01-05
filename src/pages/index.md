@@ -7,8 +7,12 @@ sections:
     image_alt: App preview
     title: The Vac Guy
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      We specialize in Central Vacuums in Utah, and guarantee that we have the
+      right products for you. As an authorized dealer of the best products
+      available in the current market, we install our products in both new
+      builds, and existing homes, work extensively with amazing contracters, and
+      service all different kinds of commercial businesses. We offer very
+      competitive service and support programs
     actions:
       - label: Learn More
         url: /features
