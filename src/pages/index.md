@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/TheVacGuy-Logos.1.svg
+    image: images/pleasant-whale.svg
     image_alt: App preview
     title: We Service All Brands
     content: >-
@@ -18,11 +18,15 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We specialize in Central Vacuums in Utah, and guarantee that we have the
+      right products for you. As an authorized dealer of the best products
+      available in the current market, we install our products in both new
+      builds, and existing homes, work extensively with amazing contracters, and
+      service all different kinds of commercial businesses. We offer very
+      competitive service and support programs. 
     features:
       - title: The Best Feature of Your Services
-        image: images/feature1.png
+        image: images/pleasant-whale.svg
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
@@ -36,7 +40,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Awesome Feature of Your Services
-        image: images/feature2.png
+        image: images/pleasant-whale.svg
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
@@ -50,7 +54,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Cool Feature of Your Services
-        image: images/feature3.png
+        image: images/pleasant-whale.svg
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
