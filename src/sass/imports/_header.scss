@@ -37,7 +37,8 @@
   margin: 0;
 
   img {
-    max-height: 40px;
+    max-height: 5em;
+    height: 4em;
   }
 }
 
@@ -61,7 +62,7 @@
 
     a:not(.button) {
       color: inherit;
-  
+
       &:hover {
         color: $gray-500;
       }
